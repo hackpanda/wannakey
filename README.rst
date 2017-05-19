@@ -69,7 +69,9 @@ Once you've got this, launch using ``cmd.exe``:
 If a valid prime is found in memory, the ``priv.key`` file will be generated in
 the current directory.
 
-You can then use https://github.com/odzhan/wanafork/ to decrypt your files! (working on XP!)
+You can then use https://github.com/odzhan/wanafork/ or
+https://github.com/gentilkiwi/wanadecrypt to decrypt your files! (working on
+XP!)
 
 Compile from source
 ===================
